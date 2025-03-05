@@ -1,6 +1,9 @@
-I) Objective
-The objective of this project is to explore how to integrate OpenAI's ChatGPT API with a Flutter application to create an interactive, conversational AI. The focus is on integrating the API, designing a user-friendly chat interface, and handling responses effectively.
-II) Key Focus Areas
-- API Integration: Connect the app with OpenAI’s ChatGPT API to process and respond to user input.
-- User Interaction: Design a chat interface that supports smooth, real-time interactions with ChatGPT.
-- Response Handling: Properly process, format, and display responses from ChatGPT.
+Project Overview
+I. Objective
+This project aims to integrate OpenAI's ChatGPT API into a Flutter application to create an interactive, conversational AI. The key focus areas include API integration, designing a user-friendly chat interface, and handling responses efficiently.
+
+II. Key Focus Areas
+API Integration: Establish a seamless connection between the Flutter app and OpenAI’s ChatGPT API to process and respond to user input.
+User Interaction: Develop a responsive and intuitive chat interface that enables real-time interactions with ChatGPT.
+Response Handling: Ensure proper processing, formatting, and display of responses from ChatGPT for a smooth user experience.
+
