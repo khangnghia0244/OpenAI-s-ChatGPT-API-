@@ -83,6 +83,20 @@ flutter run
 
 If using an IDE (Android Studio or VSCode), select the desired device before running the command.
 
+## DEMO SCREENSHOTS
+
+### Displaying Chat Messages
+Organizes and displays messages between the user and ChatGPT.
+![Displaying Chat Messages](https://i.imgur.com/kXJHZ4S.png)
+
+### New Chat
+Generate a new chat by clicking on the top right button.
+![New Chat](https://i.imgur.com/X2NuxF0.png)
+
+### Saving and Showing Chat History
+Keeps track of the conversation, allowing users to view the chat history.
+![Saving and Showing Chat History](https://i.imgur.com/Y7WxVF1.png)
+
 ## FEATURE TESTING
 
 ### TESTING CHAT FUNCTIONALITY
